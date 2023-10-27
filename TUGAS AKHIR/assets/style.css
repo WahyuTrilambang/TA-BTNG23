@@ -1,0 +1,55 @@
+* {
+  font-family: "Poppins", sans-serif;
+}
+
+.bg-light {
+  background-color: #edf4ff !important;
+}
+
+#home {
+  background-image: url(https://library.sportingnews.com/styles/twitter_card_120x120/s3/2022-08/sporting-news-2022-photo-with-watermark-6118f25f-f8d7-4401-9f1c-219c28d458bd.png?itok=AuW9owkl);
+  height: 800px;
+  position: relative;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#about {
+  background-image: url(https://wallpapercave.com/wp/V9vd13A.jpg);
+  height: 800px;
+  position: relative;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#champion {
+  background-image: url(https://images5.alphacoders.com/571/571559.jpg);
+  height: 400px;
+  position: relative;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#club {
+  background-image: url(https://www.mancity.com/meta/media/q2xpwpif/men-ucl-mobile.png);
+  height: 950px;
+  position: relative;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#testimoni {
+  background-color: rgb(5, 17, 48);
+}
+
+#fqa {
+  background-color: rgb(5, 17, 48);
+}
+
+#contact {
+  background-color: rgb(5, 17, 48);
+}
